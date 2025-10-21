@@ -1,6 +1,5 @@
 # Killer Eatz
 
-
 ---
 
 ## Overview
@@ -43,17 +42,21 @@
 
 ---
 
-## Development Notes
+## Development Notes/Challenges
 
 - Devloped over the past 3 months as an on and off ongoing solo project
 - Built and testing for Windows PC
-- **Lessons Learned:**
+- **Challenges:**
     - Optimizing PS1-style visuals with real-time lighting
     - Building of trigger event tools and state machines to help speed up development
  
 ---
 
 ## Screenshots
+
+| ![screenshot1](path_or_url.png) | ![screenshot2](path_or_url.png) |
+|:--:|:--:|
+| *Caption 1* | *Caption 2* |
 
 ---
 
@@ -75,6 +78,11 @@
 
 **Matthew Bonnichsen**
 - Computer Science @ UTSA
-- Itch.io: [https://yourusername.itch.io](https://yourusername.itch.io)
+- Itch.io: [https://fwitbees.itch.io/](https://fwitbees.itch.io/)
 - GitHub: [https://github.com/mbonnic-psx](https://github.com/mbonnic-psx)
 - Linkedin [https://www.linkedin.com/in/matthew-bonnichsen/](https://www.linkedin.com/in/matthew-bonnichsen/)
+
+## License
+All Rights Reserved © 2025 Matthew Bonnichsen  
+This repository provides compiled builds of *Killer Eatz* for demonstration purposes only.  
+No code, assets, or content may be copied, modified, or redistributed without explicit permission.
