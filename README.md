@@ -54,9 +54,13 @@
 
 ## Screenshots
 
-| ![screenshot1](path_or_url.png) | ![screenshot2](path_or_url.png) |
+| ![Outside](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-killer-eatz\Screenshots\Outside.png) | ![World Enviroment](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-killer-eatz\Screenshots\World_Enviroment.png)
 |:--:|:--:|
-| *Caption 1* | *Caption 2* |
+| Outside | World Enviroment |
+
+| ![Diner](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-killer-eatz\Screenshots\Diner.png) | ![Inventory](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-killer-eatz\Screenshots\Inventory.gif)
+|:--:|:--:|
+| Diner | Inventory |
 
 ---
 
