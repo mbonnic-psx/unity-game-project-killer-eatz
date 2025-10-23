@@ -86,7 +86,7 @@
 - GitHub: [https://github.com/mbonnic-psx](https://github.com/mbonnic-psx)
 - Linkedin [https://www.linkedin.com/in/matthew-bonnichsen/](https://www.linkedin.com/in/matthew-bonnichsen/)
 
-## License
-All Rights Reserved © 2025 Matthew Bonnichsen  
-This repository provides compiled builds of *Killer Eatz* for demonstration purposes only.  
-No code, assets, or content may be copied, modified, or redistributed without explicit permission.
+## Developer Notes:
+
+**A few assets in this project are sourced from third-party creators under open or educational use licenses.
+The project is provided for learning, demonstration, and portfolio review purposes only.**
