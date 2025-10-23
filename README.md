@@ -54,11 +54,11 @@
 
 ## Screenshots
 
-| ![Outside](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-killer-eatz\Screenshots\Outside.png) | ![World Enviroment](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-killer-eatz\Screenshots\World_Enviroment.png)
+| ![Outside](https://github.com/mbonnic-psx/unity-game-project-killer-eatz/blob/main/Screenshots/Outside.png) | ![World Enviroment](https://github.com/mbonnic-psx/unity-game-project-killer-eatz/blob/main/Screenshots/World_Enviroment.png)
 |:--:|:--:|
 | Outside | World Enviroment |
 
-| ![Diner](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-killer-eatz\Screenshots\Diner.png) | ![Inventory](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-killer-eatz\Screenshots\Inventory.gif)
+| ![Diner](https://github.com/mbonnic-psx/unity-game-project-killer-eatz/blob/main/Screenshots/Diner.png) | ![Inventory](https://github.com/mbonnic-psx/unity-game-project-killer-eatz/blob/main/Screenshots/Inventory.gif)
 |:--:|:--:|
 | Diner | Inventory |
 
@@ -66,7 +66,7 @@
 
 ## Play the Prototype
 
--  **Download:** [GitHub Releases](https://github.com/yourusername/unity-game-project-killer-eatz/releases)
+-  **Download:** [Builds](https://github.com/mbonnic-psx/unity-game-project-killer-eatz/tree/main/Builds)
 
 ---
 
